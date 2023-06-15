@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TokenRetrofit</string>
+    <string name="get_secret">Get Secret</string>
+    <string name="login">Login</string>
+</resources>
